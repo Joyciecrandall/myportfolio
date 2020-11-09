@@ -3,9 +3,10 @@
 /* ----------- Hero ----------- */
 
 #hero_container {
-  background-image: url(./images/arches.jpg);
+  background-image: url(./images/delicate_arch.jpg);
   background-size: cover;
   background-position: center bottom;
+  padding: 20px;
 }
 
 #hero_container h2 {

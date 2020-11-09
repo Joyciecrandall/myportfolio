@@ -1,0 +1,59 @@
+/* ----------- Nav ----------- */
+
+/* ----------- Hero ----------- */
+
+#hero_container {
+  background-image: url(./images/arches.jpg);
+  background-size: cover;
+  background-position: center bottom;
+}
+
+#hero_container h2 {
+  padding: 115px 0 65px 0;
+  font-size: 175px;
+  font-family:'Monoton', cursive;
+  text-align: center;
+}
+
+#hero_container h3 {
+  font-size: 25px;
+  font-family: 'Monoton', cursive;
+  text-align: center;
+}
+
+#social_links a {
+  color:white;
+  padding-left: 40px;
+  text-align:center;
+}
+
+/* ----------- Portfolio Section ----------- */
+
+#portfolio {
+  font-family: 'Big Shoulders Inline Text', cursive;
+  font-size: 40px;
+  font-weight: bolder;
+  border-style:double;
+}
+
+.portfolio_container {
+  text-align: center;
+  padding: 20px 10px 20px 10px;
+}
+
+/* ----------- About Me ----------- */
+#about_me_title {
+  text-align:center;
+}
+
+#about_me_title a {
+  font-family: 'Big Shoulders Inline Text', cursive;
+  font-size: 40px;
+  font-weight: bolder;
+  border-style:double;
+}
+
+.about_me_container {
+  text-align: center;
+  padding: 20px 10px 20px 10px;
+}

@@ -15,6 +15,12 @@
   text-align: center;
 }
 
+@media (max-width: 768px) {
+  #hero_container h2 {
+    font-size:25px;
+  }
+}
+
 #hero_container h3 {
   font-size: 25px;
   font-family: 'Monoton', cursive;

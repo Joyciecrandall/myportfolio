@@ -15,6 +15,18 @@
   text-align: center;
 }
 
+@media (max-width: 992px) {
+  #hero_container h2 {
+    font-size: 50px;
+  }
+}
+
+@media (max-width: 768px) {
+  #hero_container h2 {
+    font-size: 25px;
+  }
+}
+
 #hero_container h3 {
   font-size: 25px;
   font-family: 'Monoton', cursive;
@@ -37,7 +49,7 @@
   text-align:center;
 }
 
-.portfolio_container {
+#portfolio_container {
   text-align: center;
 }
 

@@ -6,11 +6,10 @@
   background-image: url(./images/delicate_arch.jpg);
   background-size: cover;
   background-position: center bottom;
-  padding: 20px;
 }
 
 #hero_container h2 {
-  padding: 100px 0 50px 0;
+  padding: 100px 0 65px 0;
   font-size: 175px;
   font-family:'Monoton', cursive;
   text-align: center;
@@ -50,6 +49,7 @@
   font-size: 40px;
   font-weight: bolder;
   border-style:double;
+  text-align:center;
 }
 
 #portfolio_container {

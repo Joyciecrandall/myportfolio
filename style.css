@@ -16,15 +16,18 @@
   text-align: center;
 }
 
+
 @media (max-width: 768px) {
   #hero_container h2 {
     font-size:25px;
+    text-align: center;
   }
 }
 
 @media (max-width: 992px) {
   #hero_container h2 {
     font-size:50px;
+    text-align: center;
   }
 }
 
